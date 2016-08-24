@@ -7,6 +7,8 @@ public class Calculate {
 
     //Methods
 
+    //Has this changed
+
     //getters and setters
 
     //views (such as display)
